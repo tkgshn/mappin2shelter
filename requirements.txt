@@ -1,4 +1,2 @@
-flask==1.1.1
-line-bot-sdk==1.14.0
-pandas==0.24.2
-pyproj==2.4.0
+Flask==0.12.2
+line-bot-sdk==1.5.0
